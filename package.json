@@ -1,0 +1,22 @@
+{
+  "name": "troop-messenger-chat-sdk",
+  "version": "1.0.0",
+  "description": "Troop Messenger chat SDK for integrating messaging features into third-party applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "troop-messenger",
+    "chat",
+    "sdk",
+    "javascript"
+  ],
+  "author": "Akshay",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "moment": "^2.27.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
