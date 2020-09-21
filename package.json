@@ -1,6 +1,6 @@
 {
   "name": "troop-messenger-chat-sdk",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Troop Messenger chat SDK for integrating messaging features into third-party applications",
   "main": "index.js",
   "scripts": {
